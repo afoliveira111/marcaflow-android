@@ -6,6 +6,14 @@ O aplicativo foi desenvolvido em **Kotlin e Jetpack Compose** e integra-se ao ba
 
 O objetivo da aplicação mobile é permitir que os responsáveis pelos negócios consultem e acompanhem a agenda diretamente através de dispositivos Android.
 
+
+## Preview
+
+<p align="center">
+  <img src="screenshots/marcaflow-login.png" width="280" alt="Tela de login do MarcaFlow Android">
+  <img src="screenshots/marcaflow-agenda.png" width="280" alt="Agenda do MarcaFlow Android">
+</p>
+
 ---
 
 ## Sobre o MarcaFlow
