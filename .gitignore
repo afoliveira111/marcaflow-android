@@ -1,0 +1,39 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+.kotlin/
+**/build/
+
+# Local machine configuration
+local.properties
+
+# Android Studio captures
+captures/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing / sensitive files
+*.jks
+*.keystore
+keystore.properties
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# APK / App Bundles
+*.apk
+*.aab
